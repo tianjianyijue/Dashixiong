@@ -1,26 +1,116 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090c11) XWEB/11581 Flue" version="26.0.4">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
-    <mxGraphModel dx="1366" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#E6D0DE" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9vHARivzKHTbLeYjrihz-1" value="Classifier1" style="shape=process2;fixedSize=1;size=5;fontStyle=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="50" y="180" width="140" height="40" as="geometry" />
+        <mxCell id="9vHARivzKHTbLeYjrihz-2" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;战争前的中国：&lt;/font&gt;中国封建社会的基本特点——" style="swimlane;fontStyle=1;align=left;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="250" y="40" width="310" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="9vHARivzKHTbLeYjrihz-2" value="Class1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="30" width="140" height="79" as="geometry" />
+        <mxCell id="9vHARivzKHTbLeYjrihz-3" value="1.政治上：实行高度中央集权的封建君主专制制度。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" parent="9vHARivzKHTbLeYjrihz-2" vertex="1">
+          <mxGeometry y="29" width="310" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9vHARivzKHTbLeYjrihz-3" value="&amp;lt;&amp;lt;stereotype1&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="9vHARivzKHTbLeYjrihz-2">
-          <mxGeometry y="29" width="140" height="25" as="geometry" />
+        <mxCell id="9vHARivzKHTbLeYjrihz-4" value="2.经济上：封建土地所有制占主导地位。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" parent="9vHARivzKHTbLeYjrihz-2" vertex="1">
+          <mxGeometry y="54" width="310" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9vHARivzKHTbLeYjrihz-4" value="stereotype property 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="9vHARivzKHTbLeYjrihz-2">
-          <mxGeometry y="54" width="140" height="25" as="geometry" />
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-5" value="3.文化上：以儒家思想为核心。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="9vHARivzKHTbLeYjrihz-2">
+          <mxGeometry y="79" width="310" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9vHARivzKHTbLeYjrihz-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#AA0808;strokeColor=none;gradientDirection=east;fillColor=#FF5C77;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-6" value="4.社会结构上：族权与政权相结合的封建宗法等级制度。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="9vHARivzKHTbLeYjrihz-2">
+          <mxGeometry y="104" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9vHARivzKHTbLeYjrihz-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;strokeColor=#A50040;gradientDirection=east;fillColor=#d80073;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="30" y="20" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9vHARivzKHTbLeYjrihz-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.3333333333333333;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="40" height="240" as="geometry" />
+        <mxCell id="9vHARivzKHTbLeYjrihz-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="190" y="100" width="40" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-4" value="鸦片战争前后的中国与世界" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;strokeColor=#788AA3;fontColor=#000000;fillColor=#B2C9AB;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="235" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-8" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;战争前的世界：&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;font&gt;世界资本主义的发展与殖民扩张&lt;/font&gt;——&lt;/font&gt;" style="swimlane;fontStyle=1;align=left;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="310" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-9" value="1.政治上：建立资本主义制度。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-8">
+          <mxGeometry y="29" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-10" value="2.经济上：工业，资本主义迅速发展。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-8">
+          <mxGeometry y="54" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-11" value="3.殖民扩张：开拓市场，发动侵略。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-8">
+          <mxGeometry y="79" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-13" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;战争中：&lt;/font&gt;鸦片战争的爆发——" style="swimlane;fontStyle=1;align=left;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="192" width="310" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-14" value="1.爆发原因：1839年林则徐虎门销烟。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-13">
+          <mxGeometry y="29" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-15" value="2.时间：1840年。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-13">
+          <mxGeometry y="54" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-16" value="3.结果：清政府失败告终。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-13">
+          <mxGeometry y="79" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-17" value="4.地位：是中国近代史的开端。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-13">
+          <mxGeometry y="104" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="9vHARivzKHTbLeYjrihz-4" target="k37HZc9oZ8nupZ0TVwfT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-19" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;战争后的中国：&lt;/font&gt;半殖民地半封建社会的特点——" style="swimlane;fontStyle=1;align=left;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="346" width="310" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-20" value="1.政治：帝国主义与中国封建势力相勾结，侵略势力成为支配中国的决定性力量。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-19">
+          <mxGeometry y="29" width="310" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-21" value="2.经济：封建土地所有制成为发展进步的严重障碍，中国资本经济发展缓慢，力量薄弱。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-19">
+          <mxGeometry y="70" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-22" value="3.社会：各地区发展不平衡，人民生活极端贫穷化。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-19">
+          <mxGeometry y="110" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-24" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;战争后的中国：&lt;/font&gt;社会阶级关系的变动——" style="swimlane;fontStyle=1;align=left;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="346" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-25" value="1.旧有阶级：地主——农民" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-24">
+          <mxGeometry y="29" width="230" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-26" value="2.新兴阶级：资产——工人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-24">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="k37HZc9oZ8nupZ0TVwfT-20" target="k37HZc9oZ8nupZ0TVwfT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-30" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;战争后的中国：&lt;/font&gt;近代中国资产阶级的特点——" style="swimlane;fontStyle=1;align=left;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="920" y="346" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-31" value="1.官僚买办资产阶级" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-30">
+          <mxGeometry y="29" width="260" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-32" value="2.民族资产阶级：具有两重性：革命性和妥协性" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-30">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-33" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;战争后的中国：&lt;/font&gt;近代中国工人阶级的特点——" style="swimlane;fontStyle=1;align=left;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="346" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-34" value="1.两革：革命性最强的阶级、革命性力量" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-33">
+          <mxGeometry y="29" width="260" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-35" value="2.一联盟：工农联盟" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="k37HZc9oZ8nupZ0TVwfT-33">
+          <mxGeometry y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="k37HZc9oZ8nupZ0TVwfT-31" target="k37HZc9oZ8nupZ0TVwfT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="k37HZc9oZ8nupZ0TVwfT-25" target="k37HZc9oZ8nupZ0TVwfT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k37HZc9oZ8nupZ0TVwfT-42" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;exitX=0.46;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.99999999999997" y="254.88000000000002" as="sourcePoint" />
+            <mxPoint x="230.67" y="255.11" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
