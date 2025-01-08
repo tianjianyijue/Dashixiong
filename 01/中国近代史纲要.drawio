@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090c11) XWEB/11581 Flue" version="26.0.4">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
-    <mxGraphModel dx="598" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,7 +389,7 @@
         <mxCell id="YuCSPOrPMn6birOeqR5J-69" value="历史地位" style="html=1;fillColor=#CCCCCC;strokeColor=none;shadow=0;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1;whiteSpace=wrap;horizontal=0;rounded=0;" vertex="1" parent="YuCSPOrPMn6birOeqR5J-75">
           <mxGeometry y="252" width="30" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="YuCSPOrPMn6birOeqR5J-70" value="11个国家&lt;br&gt;英法德意俄日美奥" style="html=1;fillColor=light-dark(#fbd8ac, #673a02);strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;" vertex="1" parent="YuCSPOrPMn6birOeqR5J-75">
+        <mxCell id="YuCSPOrPMn6birOeqR5J-70" value="11个国家&lt;br&gt;英法德俄意日美奥" style="html=1;fillColor=light-dark(#fbd8ac, #673a02);strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;" vertex="1" parent="YuCSPOrPMn6birOeqR5J-75">
           <mxGeometry x="349" y="35" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-71" value="《辛丑条约》" style="html=1;fillColor=light-dark(#b8b7b7, #717171);strokeColor=none;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;" vertex="1" parent="YuCSPOrPMn6birOeqR5J-75">
@@ -405,10 +405,10 @@
           <mxGeometry x="349" y="252" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-76" value="政治控制" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1620" width="90" height="30" as="geometry" />
+          <mxGeometry x="230" y="1606" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-77" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1520" width="20" height="230" as="geometry" />
+          <mxGeometry x="320" y="1520" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-78" value="控制中国内政、外交" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="340" y="1505" width="130" height="30" as="geometry" />
@@ -441,23 +441,97 @@
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YuCSPOrPMn6birOeqR5J-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1581.9999999999998" as="targetPoint" />
+            <mxPoint x="520" y="1577.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-105" value="领事裁判权" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1567" width="130" height="30" as="geometry" />
+          <mxGeometry x="340" y="1563" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-107" value="逍遥法外" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="520.5" y="1571.1" width="49.5" height="21.8" as="geometry" />
+          <mxGeometry x="520.5" y="1567.1" width="49.5" height="21.8" as="geometry" />
         </mxCell>
-        <mxCell id="YuCSPOrPMn6birOeqR5J-108" value="把持中国海关" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1623" width="130" height="30" as="geometry" />
+        <mxCell id="YuCSPOrPMn6birOeqR5J-108" value="剥夺关税自主权" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1811.2" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-109" value="镇压中国人民的反抗" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1679" width="130" height="30" as="geometry" />
+          <mxGeometry x="340" y="1658" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-110" value="扶植、收买代理人" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1733.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="340" y="1704.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-113" value="经济掠夺" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1839.2" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-114" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1780" width="20" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1826.1999999999998" as="targetPoint" />
+            <mxPoint x="470" y="1826.2" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-117" value="外国廉价商品倾销，排挤国内产品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="1815.3" width="159.5" height="21.8" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-118" value="控制通商口岸" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1766" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-119" value="实行商品倾销、资本输出" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1857" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1871.9999999999998" as="targetPoint" />
+            <mxPoint x="470" y="1872" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-121" value="大部分投资来钟战争赔款" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="1861.1" width="119.5" height="21.8" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-122" value="操纵经济命脉" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1915" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-123" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YuCSPOrPMn6birOeqR5J-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1930.8999999999999" as="sourcePoint" />
+            <mxPoint x="520" y="1910.8999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1929.8999999999999" />
+              <mxPoint x="500" y="1910.8999999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-124" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YuCSPOrPMn6birOeqR5J-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1930.8999999999999" as="sourcePoint" />
+            <mxPoint x="519" y="1950.8999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="484" y="1934.8999999999999" />
+              <mxPoint x="500" y="1945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-125" value="工商业" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="1899.1" width="39.5" height="21.8" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-126" value="交通运输业" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="1933.1" width="59.5" height="21.8" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-127" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YuCSPOrPMn6birOeqR5J-128" source="YuCSPOrPMn6birOeqR5J-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1960.8999999999999" as="sourcePoint" />
+            <mxPoint x="519" y="1980.8999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-128" value="农业" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="1966.1" width="29.5" height="21.8" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-129" value="把持中国海关" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1611" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
