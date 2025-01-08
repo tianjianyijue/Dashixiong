@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090c11) XWEB/11581 Flue" version="26.0.4">
   <diagram name="第一章" id="a7904f86-f2b4-8e86-fa97-74104820619b">
-    <mxGraphModel dx="1062" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,13 +224,13 @@
           <mxGeometry y="11.599999999999987" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k37HZc9oZ8nupZ0TVwfT-121" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.automation;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1430" width="60" height="58.199999999999996" as="geometry" />
+          <mxGeometry x="110" y="1485.9" width="60" height="58.199999999999996" as="geometry" />
         </mxCell>
         <mxCell id="k37HZc9oZ8nupZ0TVwfT-123" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="190" y="1108.2" width="40" height="800" as="geometry" />
+          <mxGeometry x="190" y="1108.2" width="40" height="911.8" as="geometry" />
         </mxCell>
         <mxCell id="k37HZc9oZ8nupZ0TVwfT-124" value="西方列强对中国的侵略" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;strokeColor=#BD7000;fontColor=#000000;fillColor=#f0a30a;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1488.2" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="1544.1000000000001" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YuCSPOrPMn6birOeqR5J-14">
           <mxGeometry relative="1" as="geometry">
@@ -314,8 +314,8 @@
         <mxCell id="YuCSPOrPMn6birOeqR5J-41" value="八国联军侵华战争" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=7;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="841" y="1050" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YuCSPOrPMn6birOeqR5J-42" value="主要战争时间线" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1094" width="90" height="30" as="geometry" />
+        <mxCell id="YuCSPOrPMn6birOeqR5J-42" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;军事侵略：&lt;/font&gt;&lt;br&gt;主要战争时间线" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1090" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-43" value="" style="edgeStyle=entityRelationEdgeStyle;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=0;startFill=0;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
           <mxGeometry width="180" relative="1" as="geometry">
@@ -532,6 +532,30 @@
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-129" value="把持中国海关" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="340" y="1611" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-131" value="文化渗透" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2005" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-132" value="光学会" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2005" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-133" value="《万国公报》" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="524" y="2005" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-138" value="基督教办立" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YuCSPOrPMn6birOeqR5J-132">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="320" y="2019.85" as="sourcePoint" />
+            <mxPoint x="390" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-143" value="发表刊物" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YuCSPOrPMn6birOeqR5J-133">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="460" y="2019.85" as="sourcePoint" />
+            <mxPoint x="520" y="2020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="2020" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
