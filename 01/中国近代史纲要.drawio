@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090c11) XWEB/11581 Flue" version="26.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090c11) XWEB/11581 Flue" version="26.0.4" pages="2">
   <diagram name="第一章" id="a7904f86-f2b4-8e86-fa97-74104820619b">
     <mxGraphModel dx="4780" dy="2753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
       <root>
@@ -777,6 +777,138 @@
         </mxCell>
         <mxCell id="YuCSPOrPMn6birOeqR5J-234" value="进入近代后中华民族的磨难与抗争" style="html=1;shape=mxgraph.infographic.ribbonRolled;dx=185;dy=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="9.6" width="404" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jkLEcXAqvf0bhZISaIHR" name="第二章">
+    <mxGraphModel dx="819" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="light-dark(#DDE9E4,#0B1D15)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xdQt7OOq1yX-k4UvJ6Dc-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="20.000000000000007" width="61" height="49.199999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="xdQt7OOq1yX-k4UvJ6Dc-2" value="" style="group" vertex="1" connectable="0" parent="xdQt7OOq1yX-k4UvJ6Dc-1">
+          <mxGeometry x="-1" width="62" height="49.199999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="xdQt7OOq1yX-k4UvJ6Dc-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.service;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="xdQt7OOq1yX-k4UvJ6Dc-2">
+          <mxGeometry x="2" width="60" height="49.199999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="xdQt7OOq1yX-k4UvJ6Dc-4" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;2&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=30;" vertex="1" parent="xdQt7OOq1yX-k4UvJ6Dc-2">
+          <mxGeometry y="11.599999999999987" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xdQt7OOq1yX-k4UvJ6Dc-5" value="不同社会力量对国家出路的早期探索" style="html=1;shape=mxgraph.infographic.ribbonRolled;dx=185;dy=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=24;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="9.6" width="404" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dx2HxU-KuuOJAMJjD5rv-1" value="太平天国运动的起落" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;strokeColor=#BD7000;fontColor=#000000;fillColor=#f0a30a;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dx2HxU-KuuOJAMJjD5rv-2" value="洋务运动的兴衰" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;strokeColor=#BD7000;fontColor=#000000;fillColor=#f0a30a;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dx2HxU-KuuOJAMJjD5rv-3" value="维新运动的兴起和夭折" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;strokeColor=#BD7000;fontColor=#000000;fillColor=#f0a30a;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="710" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1188.2" width="40" height="591.8" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gSQ-QNet3g77wD9epMwH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-3" value="1851年" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1174" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-4" value="" style="edgeStyle=entityRelationEdgeStyle;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=0;startFill=0;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1" source="gSQ-QNet3g77wD9epMwH-3">
+          <mxGeometry width="180" relative="1" as="geometry">
+            <mxPoint x="486" y="1189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-5" value="1853年" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="486" y="1174" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-6" value="" style="edgeStyle=entityRelationEdgeStyle;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=0;startFill=0;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="180" relative="1" as="geometry">
+            <mxPoint x="604" y="1189" as="targetPoint" />
+            <mxPoint x="566" y="1189" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-7" value="1856年" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="604" y="1174" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-8" value="" style="edgeStyle=entityRelationEdgeStyle;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=0;startFill=0;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="180" relative="1" as="geometry">
+            <mxPoint x="722" y="1189" as="targetPoint" />
+            <mxPoint x="684" y="1189" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-9" value="1859年" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="722" y="1174" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-10" value="" style="edgeStyle=entityRelationEdgeStyle;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=0;startFill=0;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="180" relative="1" as="geometry">
+            <mxPoint x="840" y="1189" as="targetPoint" />
+            <mxPoint x="802" y="1189" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-12" value="1864年" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1174" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-13" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;洪秀全&lt;/font&gt;发动“&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;金田起义&lt;/font&gt;”" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=7;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1130" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526" y="1150" as="targetPoint" />
+            <mxPoint x="526" y="1174" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-15" value="1.定都&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;天京&lt;/font&gt;&lt;br&gt;2.颁布&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;《天朝天亩制度》&lt;/font&gt;" style="html=1;align=left;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=7;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="487" y="1130" width="78" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="1150" as="targetPoint" />
+            <mxPoint x="644" y="1174" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-17" value="由盛转衰的转折点&lt;br&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;天京事变&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=7;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="614" y="1130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="762" y="1150" as="targetPoint" />
+            <mxPoint x="762" y="1174" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-19" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;洪仁轩&lt;/font&gt;提出&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;《资政新篇》&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=7;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="1130" width="79" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="881" y="1150" as="targetPoint" />
+            <mxPoint x="881" y="1174" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-21" value="失败" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=7;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="865.5" y="1130" width="29" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-22" value="&lt;font&gt;太平天国的建立与失败&lt;/font&gt;" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;fontColor=#0B1D15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1170" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-23" value="" style="edgeStyle=entityRelationEdgeStyle;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=0;startFill=0;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="180" relative="1" as="geometry">
+            <mxPoint x="368" y="1189" as="targetPoint" />
+            <mxPoint x="330" y="1189" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.service2;" vertex="1" parent="1">
+          <mxGeometry x="563" y="1140" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gSQ-QNet3g77wD9epMwH-25" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.service2;" vertex="1" parent="1">
+          <mxGeometry x="798.5" y="1135" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
