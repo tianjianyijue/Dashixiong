@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090c11) XWEB/11581 Flue" version="26.0.4">
   <diagram name="第一章" id="a7904f86-f2b4-8e86-fa97-74104820619b">
-    <mxGraphModel dx="1434" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#F5E0ED" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,6 +556,83 @@
               <mxPoint x="490" y="2020" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-145" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2140" width="40" height="911.8" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-146" value="反抗外国武装&lt;br&gt;侵略的斗争" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;strokeColor=#BD7000;fontColor=#000000;fillColor=#f0a30a;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2575.9" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-148" value="列强瓜分中国" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2153" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-151" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2103" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-152" value="瓜分的图谋" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2094" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-153" value="中国的反抗" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2223" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-154" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="409" y="2080.5" width="20" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcccc;strokeColor=#36393d;" edge="1" parent="1" source="YuCSPOrPMn6birOeqR5J-155">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-155" value="瓜分高潮" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2070" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-157" value="中日甲午战争爆发后" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="2070" width="119.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-159" value="瓜分失败" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2117.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-160" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2110" width="20" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-162" value="最根本原因" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="510.25" y="2100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-163" value="重要原因" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="510.25" y="2135" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-164" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2215" width="20" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-165" value="人民的反侵略斗争" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="431" y="2205.25" width="99" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-166" value="官兵的斗争" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="431" y="2240.75" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-167" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2180" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YuCSPOrPMn6birOeqR5J-168">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657" y="2180" as="targetPoint" />
+            <mxPoint x="627.25" y="2180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-168" value="三元里斗争" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="550.25" y="2170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-169" value="太平天国运动" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="550.25" y="2205" width="69.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-170" value="义和团" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2240.25" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-175" value="第一次大规模反侵略斗争" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;labelBorderColor=none;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="648" y="2165" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuCSPOrPMn6birOeqR5J-176" value="1841年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="605" y="2166" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
