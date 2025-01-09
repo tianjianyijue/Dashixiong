@@ -883,6 +883,11 @@
             <mxPoint x="762" y="1174" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="gSQ-QNet3g77wD9epMwH-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="801.344827586207" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gSQ-QNet3g77wD9epMwH-19" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;洪仁轩&lt;/font&gt;提出&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;《资政新篇》&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=7;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="722.5" y="1130" width="79" height="20" as="geometry" />
         </mxCell>
