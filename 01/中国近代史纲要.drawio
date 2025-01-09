@@ -782,7 +782,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jkLEcXAqvf0bhZISaIHR" name="第二章">
-    <mxGraphModel dx="819" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="light-dark(#DDE9E4,#0B1D15)" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="light-dark(#DDE9E4,#0B1D15)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -997,6 +997,30 @@
               <mxPoint x="390" y="1090" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-44" value="&lt;font&gt;太平天国的意义&lt;/font&gt;" style="html=1;rounded=1;absoluteArcSize=1;arcSize=80;whiteSpace=wrap;fontSize=11;fillColor=#ffcc99;strokeColor=#36393d;fontColor=#0B1D15;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1301" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="332" y="1278" width="20" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-46" value="内部" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1264" width="48" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-47" value="外部" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1346" width="48" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-50" value="1.打击封建统治阶级，撼动清政府的统治根基。&lt;br&gt;2.批判儒家为代表的封建统治思想。&lt;br&gt;3.两个文件让中国旧式农民起义达到最高峰。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;spacing=4;spacingTop=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;glass=0;arcSize=38;spacingLeft=12;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1247.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-51" value="1.打击外国侵略势力，维护中国主权。&lt;br&gt;2.掀起亚洲发殖民主义的大潮。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#10739e;fillColor=#b1ddf0;spacing=4;spacingTop=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;arcSize=35;spacingLeft=11;" vertex="1" parent="1">
+          <mxGeometry x="429" y="1336" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.515;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sc-gVG8A1niZDXLNFAEk-46" target="sc-gVG8A1niZDXLNFAEk-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sc-gVG8A1niZDXLNFAEk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sc-gVG8A1niZDXLNFAEk-47" target="sc-gVG8A1niZDXLNFAEk-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
